@@ -1,0 +1,13 @@
+body::before {
+  display: block;
+  content: "";
+  height: 56px;
+}
+
+.top {
+  background-color: #0e2954;
+}
+
+.carousel-item {
+  width: 200px;
+}
